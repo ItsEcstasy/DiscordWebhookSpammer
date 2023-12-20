@@ -1,0 +1,7 @@
+@everyone, @here, <@851827069284778054>, This is a warning. Don't use unprotected webhooks. 
+This is an example of how dangerous unprotected webhooks can be when shared
+
+- Ecstasy
+
+# JOIN UP
+https://discord.gg/8ujk2aaz
