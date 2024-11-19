@@ -1,5 +1,7 @@
-@everyone, @here, <@851827069284778054>, This is a warning. Don't use unprotected webhooks. 
-This is an example of how dangerous unprotected webhooks can be when shared
+@everyone, @here, <@1055337846657007648>
+
+This is an example of how dangerous unprotected webhooks can be when shared.
+Don't share unprotected webhooks.
 
 - Ecstasy
 
